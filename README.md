@@ -1,3 +1,3 @@
 # whereter
 
-A new Flutter project.
+A Flutter assignment
